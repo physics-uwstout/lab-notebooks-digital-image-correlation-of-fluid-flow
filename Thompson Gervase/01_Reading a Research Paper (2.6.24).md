@@ -1,0 +1,7 @@
+
+Today, we reviewed some techniques when reading a research paper (i.e., start with the intro and conclusion and dive into the rest of the material). Following that, we were tasked with summarizing a research paper on low-cost nonlinear optics experiments. Then we asked various AI platforms to do summarize the same paper and compare it to ours. The AI summarizers were surprisingly good. They hit all the high points but did not really get into detail about the mathematics supplied within the paper.
+
+Following that activity, we moved to the lab to get our hands on our experiment of focus for the semester (Digital Image Correlation of Fluid Flow). We got access to papers and files from previous classes that were focused on this same project
+
+
+
