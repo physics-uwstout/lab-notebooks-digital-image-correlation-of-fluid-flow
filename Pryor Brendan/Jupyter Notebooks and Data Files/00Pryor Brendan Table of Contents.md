@@ -13,4 +13,4 @@ This is an example of the folder and file structure for your lab notebook.  Orga
 * [[2024-02-15]]
 	* Summary: Setup GitHub reviewed code and setup presentation.
 * [[2024-02-20]]
-	* Summary: 
+	* Summary: More looking over the previous code and materials to get a better understanding on what we are trying to do. Found some new resources to look over which also helped me get a better understanding.
