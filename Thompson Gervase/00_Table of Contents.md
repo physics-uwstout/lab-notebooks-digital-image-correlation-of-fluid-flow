@@ -1,4 +1,3 @@
-This is an example of the folder and file structure for your lab notebook.  Organize your subfolders the same way you see here.
 
 * [[01_Reading a Research Paper (2.6.24)]]
 	* Summary: Learned how to read a research paper in class.
@@ -10,4 +9,6 @@ This is an example of the folder and file structure for your lab notebook.  Orga
 	* Linked our lab notebooks in obsidian to GitHub. Still did not have all the equipment required to conduct the experiment so we continued to play with the particle tracking code.
 * [[05_Lab Work (2.20.2024)]]
 	* Summary: Continued to work through the [[Student Lab Notebooks/lab-notebooks-digital-image-correlation-of-fluid-flow/Thompson Gervase/Misc Files/PIV Guided Notebook.ipynb|PIV Guided Notebook]]. We took some time to get into the documentation from the developers of this script and took some notes on what they had to say ([[https://openpiv.readthedocs.io/en/latest/]]). 
+* [[06_Lab Work (2.22.2024)]]
+	* Summary: Still waiting on copper sulfate to actually run the experiment. Spent our time during class refining our coding skills with basic examples and exploring AI examples.
 	
