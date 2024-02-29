@@ -1,6 +1,6 @@
 We cannot run the experiment ourselves yet. There is not enough copper sulfate to make the ionic solution. Once that material is here, we can do some test-runs.
 
-Continuing to work through the [[Student Lab Notebooks/Thompson Gervase/PDFs/Digital Imaging of Fluid Flow/PIV Guided Notebook.ipynb|PIV Guided Notebook]] and learn what is going on when breaking down the video files. We were able to work through all of the code with the video provided ([[PIVCleanData.mp4]]). It was interesting working through the data filtering process within the given script. 
+Continuing to work through the [[Student Lab Notebooks/Thompson Gervase/PDFs/Digital Imaging of Fluid Flow/PIV Guided Notebook.ipynb|PIV Guided Notebook]] and learn what is going on when breaking down the video files. We were able to work through all of the code with the video provided ([[Student Lab Notebooks/lab-notebooks-digital-image-correlation-of-fluid-flow/Thompson Gervase/Misc Files/PIVCleanData.mp4]]). It was interesting working through the data filtering process within the given script. 
 
 The rest of the lab time, we read through the following research paper, [[Kelley and Ouellette - 2011 - Using particle tracking to measure flow instabilit.pdf]].
 	- Experimental Setup Notes

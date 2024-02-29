@@ -1,7 +1,7 @@
 
 Our goal for today is to take inventory on materials/parts from previous semesters used for this project. From there we can then identify what parts we have and what is missing to conduct the experiment. From there, we can prep to replicate and run this experiment to get experience and ideas for future experiments/research questions.
 
-We also gained access to a python script ([[Student Lab Notebooks/Thompson Gervase/Misc Files/PIV Guided Notebook.ipynb|PIV Guided Notebook]]) used in the past for this project and a video file ([[PIVCleanData.mp4]]) to test run the python script.
+We also gained access to a python script ([[Student Lab Notebooks/Thompson Gervase/Misc Files/PIV Guided Notebook.ipynb|PIV Guided Notebook]]) used in the past for this project and a video file ([[Student Lab Notebooks/lab-notebooks-digital-image-correlation-of-fluid-flow/Thompson Gervase/Misc Files/PIVCleanData.mp4]]) to test run the python script.
 
 **Current Inventory**:
 * 4x vertical dowel rods 
