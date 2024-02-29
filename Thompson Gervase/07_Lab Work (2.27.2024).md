@@ -4,4 +4,7 @@ When looking back at the [[KELLEY_1.PDF]], we reviewed the appropriate electroly
 - Ingredients: Copper Salt (Copper Sulfate), Glycerol, Distilled Water
 - 10% of the mass should be Copper Sulfate
 - 20% of the volume should be glycerol (to increase viscosity)
+
 To determine these values, I created a script to use in EES ([[Solution Calculations.EES]]). This determines the required volumes of distilled water and glycerol needed in reference to a specific amount of copper sulfate.  
+
+![[Pasted image 20240229085323.png]]
