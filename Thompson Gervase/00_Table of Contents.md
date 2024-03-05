@@ -1,4 +1,6 @@
-* [[08_Lab Work (2.29.2024)]]
+ * [[09_Lab Work (3.5.2024)]]
+	 * Summary: Attempted running an experiment for the first time today. Went through all the setup for the experiment and mixed the proper solutions relative to the [[KELLEY_1.PDF]] research paper. The results did not turn out as good as anticipated. Learned some things that we will use to change next time.
+ * [[08_Lab Work (2.29.2024)]]
 	* Summary: Attempted to fix the leak in our acrylic container. Epoxy was used to seal some seams. Once the epoxy cures, we can run the experiment for the first time next week. To prep, we compared the experimental parameters of two research papers. There were some distinct differences that we will have to compare when we actually run the experiment.
 * [[07_Lab Work (2.27.2024)]]
 	* Summary: The copper sulfate arrived today!! We received a 1000 [g] container from thermo scientific. Started to build the experimental setup and we noticed that our acrylic base leaks when liquid is placed inside of it. This needs to be fixed before we can actually run the experiment. Also went through and tested all of our LED strips to make sure they work (all of them did).
