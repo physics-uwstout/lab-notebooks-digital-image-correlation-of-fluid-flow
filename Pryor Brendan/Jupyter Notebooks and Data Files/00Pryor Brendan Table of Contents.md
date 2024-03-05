@@ -16,3 +16,5 @@ This is an example of the folder and file structure for your lab notebook.  Orga
 	* Summary: finally got copper sulfate then realized we had a leak in the acrylic base so now we have to fix that then we can start running the experiment.
 * [[2024-02-29]]
 	* Summary: We hopefully fixed the leak then we measured how much water, Glycerol and copper sulfate we needed for the experiment.
+* [[2024-03-05]]
+	* Summary: We ran the experiment for the first time it went pretty well probably used too many glass spheres but the videos showed movement.
