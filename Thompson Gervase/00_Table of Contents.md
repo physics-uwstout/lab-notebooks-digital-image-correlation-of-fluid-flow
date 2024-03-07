@@ -1,3 +1,5 @@
+ * [[10_Lab Work (3.7.2024)]]
+	 * Summary: Tried to run an experiment similar to the one outlined in [[Digital Imaging of 2D Fluid Flow - SP22.pdf]]. However, there seems to be an issue with our driving circuit that we could not identify.
  * [[09_Lab Work (3.5.2024)]]
 	 * Summary: Attempted running an experiment for the first time today. Went through all the setup for the experiment and mixed the proper solutions relative to the [[KELLEY_1.PDF]] research paper. The results did not turn out as good as anticipated. Learned some things that we will use to change next time.
  * [[08_Lab Work (2.29.2024)]]
