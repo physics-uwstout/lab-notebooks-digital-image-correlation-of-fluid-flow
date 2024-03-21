@@ -1,3 +1,7 @@
+- [[12_Lab Work (3.21.2024)]] 
+	- Summary: Today we identified an issue with our experimental setup. The copper strips supplying the electrolytic solution with the required voltage were oriented incorrectly relative to the magnets underneath the solution. They were 90$\degree$ out of phase relative to each other. Once this was corrected, the flow patterns were behaving as expected. Now that we have corrected this error, we can use the video data collected to analyze our system with the particle tracking script.
+ * [[11_Lab Work (3.19.2024)]]
+	 * Summary: Cleaned up our copper strips to promote more efficient conductivity. We identified a critical flaw within our experimental setup. The grounding clips were engaged on our power supplies limiting the amount of voltage we could supply to our system. Once we took those grounding clips off, the system behaved similar to what was expected. Tried to send some videos through the [[Student Lab Notebooks/lab-notebooks-digital-image-correlation-of-fluid-flow/Thompson Gervase/Misc Files/PIV Guided Notebook.ipynb|PIV Guided Notebook]]. We need to review and adjust some parameters to accommodate the videos we took.
  * [[10_Lab Work (3.7.2024)]]
 	 * Summary: Tried to run an experiment similar to the one outlined in [[Digital Imaging of 2D Fluid Flow - SP22.pdf]]. However, there seems to be an issue with our driving circuit that we could not identify.
  * [[09_Lab Work (3.5.2024)]]
@@ -17,7 +21,7 @@
 * [[02_Lab Work (2.8.2024)]]
 	* Summary: Took inventory for our project and identified what items we need to run the project. Played with script to break down video files
 * [[01_Reading a Research Paper (2.6.24)]]
-	* Summary: Learned how to read a research paper in class.
+	* Summary: Learned about different techniques to read research papers in class.
 
 
 
