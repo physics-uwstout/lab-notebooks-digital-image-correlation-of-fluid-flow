@@ -1,7 +1,8 @@
 Today we started out trying to run the videos we collected from [[11_Lab Work (3.19.2024)]] through the particle tracking script. However, we noticed that the flow pattern of these videos were off from previous groups in the past.
 
 That led us to realize that we had the magnets and copper strips oriented relative to each other incorrectly. A schematic of the correct orientation is shown below. What was causing the issue with our setup was the fact that we had the copper strips and magnets 90$\degree$out of phase (relative to the image below). This was causing unexpected flow and some very disruptive eddy currents. 
-![[Magnet & Copper Orientation.png]] 
+![[Student Lab Notebooks/lab-notebooks-digital-image-correlation-of-fluid-flow/Thompson Gervase/Misc Files/Experimental Setup/Magnet and Copper Strips/Orientation #1.png]]
+
 Once we corrected the orientation of the experimental setup, we collected data under four different parameters. 
 
 **Video #1 Parameters**
