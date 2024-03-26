@@ -35,3 +35,5 @@ Today we ran the experiments with the setup set to orientation #2.
 	- Current: 3.65 [A]
 
 ![[Lab_13_122.82V_3.65A.MOV]]
+
+The results of these test runs were similar to those seen with the orientation #1 setup. However, the flow seemed to be choppier. Looking back at the [[KELLEY_1.PDF]] research paper, I am questioning the copper/magnet orientations I presented up above. We need to dissect our grouping of magnets to see what is really going on underneath a layer of tape. This will help solidify our understanding of the experimental setup.  
